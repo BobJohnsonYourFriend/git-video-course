@@ -1,1 +1,1 @@
-this is my first git repository.
+Here is an update to demonstrate the git workflow.
