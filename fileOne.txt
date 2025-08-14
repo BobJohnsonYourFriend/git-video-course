@@ -1,1 +1,1 @@
-Here are some changes to demonstrate git fetch and git pull
+Here are some remote changes to demonstrate git fetch and git pull
