@@ -1,1 +1,1 @@
-Here is an update to demonstrate the git workflow.
+Here are some changes to demonstrate git fetch and git pull
